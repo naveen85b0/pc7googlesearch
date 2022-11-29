@@ -1,0 +1,37 @@
+.googleimage {
+  width: 300px;
+}
+.maincontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+.inputfield {
+  width: 300px;
+  padding: 4px;
+}
+.insideinput {
+  display: flex;
+}
+.suggestioncontainer {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 24px;
+  padding-bottom: 8px;
+}
+.searchimage {
+  height: 24px;
+  margin-right: 10px;
+}
+.searchtext {
+  width: 100%;
+  outline: none;
+  border: none;
+  font-size: 15px;
+  color: #bfbfbf;
+}

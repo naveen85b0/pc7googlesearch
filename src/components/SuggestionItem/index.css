@@ -1,0 +1,15 @@
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow-image {
+  height: 14px;
+  cursor: pointer;
+}
+.suggestion-name {
+  font-size: 10px;
+  font-family: 'roboto';
+  color: #64748b;
+}
